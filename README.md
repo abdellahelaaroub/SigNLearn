@@ -1,10 +1,10 @@
-# DeafLearn App - Empowering Deaf Individuals with AI-driven Sign Language Communication
+# SigNLearn App - Empowering Deaf Individuals with AI-driven Sign Language Communication
 
-![DeafLearn App](https://your-image-link-here.jpg)
+![SigNLearn App](https://your-image-link-here.jpg)
 
 ## Introduction
 
-DeafLearn is an innovative mobile application that aims to empower deaf individuals to learn effectively in any field using AI-driven sign language communication. By leveraging advanced technologies like Artificial Intelligence (AI) and 3D animated avatars, DeafLearn revolutionizes the learning experience for the deaf community, enabling them to access knowledge and information with ease.
+SigNLearn is an innovative mobile application that aims to empower deaf individuals to learn effectively in any field using AI-driven sign language communication. By leveraging advanced technologies like Artificial Intelligence (AI) and 3D animated avatars, DeafLearn revolutionizes the learning experience for the deaf community, enabling them to access knowledge and information with ease.
 
 ## Key Features
 
@@ -32,13 +32,10 @@ DeafLearn is an innovative mobile application that aims to empower deaf individu
 
 To get started with DeafLearn, follow these steps:
 
-1. Clone the GitHub repository to your local machine.
-[] git clone https://github.com/your-username/DeafLearn.git
+1. Clone the GitHub repository to your local machine -> git clone https://github.com/abdellahelaaroub/SigNLearn.git
 
-2. Install the required dependencies.
-{] pip install -r requirements.txt
+2. Install the required dependencies -> pip install -r requirements.txt
 
-3. Run the app.
-[] python app.py
+3. Run the app 
 
 
